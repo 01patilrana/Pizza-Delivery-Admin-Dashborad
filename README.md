@@ -1,2 +1,3 @@
 # Pizza-Delivery-Admin-Dashborad
 A pizza delivery admin dashboard helps manage orders, track deliveries, update menu items, and monitor sales. It provides real-time status of drivers, customer details, payments, and performance analytics, ensuring smooth and efficient business operations.
+PizzaHub Pro is a modern pizza delivery admin dashboard featuring a futuristic design with gradient backgrounds, real-time order tracking, inventory management, user analytics, and interactive features. Built with HTML/CSS/JS, it includes mock data simulation, responsive layout, dark mode toggle, and export functionality for comprehensive restaurant management. 
